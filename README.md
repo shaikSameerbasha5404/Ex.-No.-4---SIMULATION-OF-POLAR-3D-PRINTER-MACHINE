@@ -33,8 +33,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:Shaik Sameer Basha
+### Register Number:212222240093
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.

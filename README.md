@@ -32,7 +32,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
-
+![Screenshot (124)](https://github.com/shaikSameerbasha5404/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118707756/71784b1d-646c-40fe-9a63-b5b826b0e49b)
 ### Name:Shaik Sameer Basha
 ### Register Number:212222240093
 
